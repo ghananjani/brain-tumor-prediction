@@ -1,4 +1,4 @@
-# Detecting Brain Tumors
+# BrainTune : Detecting Brain Tumors
 
 Advanced machine learning model, has been developed to identify brain tumors from medical imaging data with an impressive accuracy rate of 95% on the Kaggle dataset. The primary objective of BrainTune is to assist healthcare professionals in the early detection of brain tumors, ultimately enhancing patient outcomes.
 
